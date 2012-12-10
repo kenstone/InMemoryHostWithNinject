@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryHostWithNinject.Web.Api", "InMemoryHostWithNinject.Web.Api\InMemoryHostWithNinject.Web.Api.csproj", "{95DC01BD-3D93-484B-BF65-AAE3CDD342A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryHostWithNinject.Web.Api.Tests", "InMemoryHostWithNinject.Web.Api.Tests\InMemoryHostWithNinject.Web.Api.Tests.csproj", "{ED54FCAD-A7FF-4BA3-ADE6-52AB1361F1C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95DC01BD-3D93-484B-BF65-AAE3CDD342A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DC01BD-3D93-484B-BF65-AAE3CDD342A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DC01BD-3D93-484B-BF65-AAE3CDD342A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DC01BD-3D93-484B-BF65-AAE3CDD342A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED54FCAD-A7FF-4BA3-ADE6-52AB1361F1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED54FCAD-A7FF-4BA3-ADE6-52AB1361F1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED54FCAD-A7FF-4BA3-ADE6-52AB1361F1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED54FCAD-A7FF-4BA3-ADE6-52AB1361F1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
